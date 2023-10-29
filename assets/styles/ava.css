@@ -117,6 +117,14 @@
         max-width: 50px;
         margin-top: 15px
     }
+    .testimonialprz03sp248l .mt-5{
+        margin-top: 0rem!important
+    }
+
+    @media (min-width: 1200px)
+    .testimonialprz03sp248l .pb-xl-5{
+    padding-bottom: 0rem!important;
+}
     /* #teddy(testimonialprz03sp248l) #css ends  */
 /*****teddy*****/
 
