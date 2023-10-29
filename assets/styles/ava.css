@@ -126,6 +126,11 @@
     padding-bottom: 0rem!important;
 }
 }
+@media (min-width: 1200px) { 
+.mt-xl-5, .my-xl-5 {
+    margin-top: 1rem!important
+}
+}
     /* #teddy(testimonialprz03sp248l) #css ends  */
 /*****teddy*****/
 
@@ -137,28 +142,64 @@ color: rgb(255, 255, 255);
 margin-top: 20px
 }
 .bannerd12294b36d7b134b .button:hover {
-color: #167CE9
+color: rgb(255, 255, 255)
 }
 /* #basu(d12294b36d7b134b) #css ends  */
 /*****basu*****/
 
 /*****faye*****/
 /* #faye(fayete8bna5e4lc) #css starts */
+.fayete8bna5e4lc .fdb-block {
+    padding: 5.5rem 0
+}
 .fayete8bna5e4lc a{
-    color: #167CE9;
+    color: #33363D;
     font-weight: 600
 }
-
+.fayete8bna5e4lc a:hover{
+    color: #167CE9
+}
+.fayete8bna5e4lc h2{
+    font-size: 20px;
+    font-weight: 600
+}
+.fayete8bna5e4lc .fdb-block .fdb-box {
+    padding: 0.75rem 2.5rem
+}
 .fayete8bna5e4lc .fdb-block .fdb-touch {
-border-top: solid 0.3125rem #167CE9
+border-top: solid 0.3125rem #33363D
 }
 /* #faye(fayete8bna5e4lc) #css starts */
 /*****faye*****/
 
 /*****foot*****/
     /* #foot(footftkxsoham8f) #css starts */
-   .footftkxsoham8f h3{
-        margin-left: 12px
-    }
+   /*****foot*****/ 
+/* #foot(footftkxsoham8f) #css starts */
+.footftkxsoham8f h3{    
+    margin-left: 15px;
+    color: #37423b
+}
+.footftkxsoham8f h3 .social{
+    margin-left: 5px
+}
+.footftkxsoham8f .headingT{
+    margin-left: -4px
+}
+.footftkxsoham8f .nav .nav-link{
+    color: #050D13
+}
+.footftkxsoham8f .nav-link:focus, 
+.footftkxsoham8f .nav-link:hover {
+    font-weight: bold;
+}
+.footftkxsoham8f .fab{
+    color: #050D13
+}
+.footftkxsoham8f .lead {
+    margin-left: 15px
+}
+/* #foot(footftkxsoham8f) #css ends */
+/*****foot*****/
     /* #foot(footftkxsoham8f) #css ends */
 /*****foot*****/
