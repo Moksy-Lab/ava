@@ -3,10 +3,16 @@
 .headere2d79a3ca0c8814a .head{ 
     color: #167CE9
 }
-.headere2d79a3ca0c8814a  .navbar-light .navbar-nav .active>.nav-link{
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link {
+    color: #33363D;
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link {
+    color: #33363D;
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link:hover {
     color: #167CE9
 }
-.navbar-light .navbar-nav .nav-link:hover {
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link:hover {
     color: #167CE9
 }
 .headere2d79a3ca0c8814a .button{
@@ -22,13 +28,17 @@
     display: none
 }
 .headerb4ddd9e9eed437a92 .logo-header .btn {
-    padding: 6px 12px
+    padding: 6px 12px;
+    font-weight: 600
 }
 .headerb4ddd9e9eed437a92 .logo-header .btn:hover {
     font-weight: 700;
     color: #FFF;
     background-color: #167CE9; 
     border-color: #167CE9
+}
+.headerb4ddd9e9eed437a92 .logo-header p{
+    font-size: 20px
 }
 /* #hailey(b4ddd9e9eed437a92) #css ends  */
 /*****hailey*****/
@@ -77,7 +87,8 @@
     /* #babak(d86660a7b05110db) #css starts  */
 
     .babakd86660a7b05110db .btn {   
-        background-color: #167CE9
+        background-color: #167CE9;
+        border-radius: 0px
     }
     /* #babak(d86660a7b05110db) #css ends  */
 /*****babak*****/
@@ -85,10 +96,11 @@
 /*****cade*****/
  /* #cade(af598102c9dad94e) #css starts  */
  .counteraf598102c9dad94e{
-    padding: 7.5rem 0;
+    padding: 4.5rem 0;
 }
  .counteraf598102c9dad94e h2{
-    color: #167CE9
+    color: #167CE9;
+    font-size: 32px
 }
 /* #cade(af598102c9dad94e) #css ends  */
 /*****cade*****/
@@ -96,7 +108,10 @@
 /*****teddy*****/
     /* #teddy(testimonialprz03sp248l) #css starts  */
     .testimonialprz03sp248l{
-        padding: 7.5rem 0
+        padding: 1.5rem 0
+    }
+    .testimonialprz03sp248l h1{
+        font-size: 32px
     }
     .testimonialprz03sp248l .logo {
         max-width: 50px;
