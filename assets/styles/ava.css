@@ -121,9 +121,10 @@
         margin-top: 0rem!important
     }
 
-    @media (min-width: 1200px)
+    @media (min-width: 1200px){ 
     .testimonialprz03sp248l .pb-xl-5{
     padding-bottom: 0rem!important;
+}
 }
     /* #teddy(testimonialprz03sp248l) #css ends  */
 /*****teddy*****/
