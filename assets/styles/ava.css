@@ -190,9 +190,10 @@ border-top: solid 0.3125rem #33363D
 .footftkxsoham8f .nav-link:focus, 
 .footftkxsoham8f .nav-link:hover {
     font-weight: bold;
+    color: #167CE9
 }
 .footftkxsoham8f .fab{
-    color: #33363D
+    color: #167CE9
 }
 .footftkxsoham8f .lead {
     margin-left: 15px
